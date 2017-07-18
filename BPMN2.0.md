@@ -15,9 +15,17 @@ BPMN2.0规范分类规划:
         * 取消结束事件    
 2.顺序流(Sequence Flow)
     * 标准顺序流
-        
+
     * 条件顺序流
 3.任务(Task)
+    * 用户任务
+    * 脚本任务
+    * webservice任务
+    * 业务规则任务
+    * 邮件任务
+    * Mule任务
+    * Camel任务
+    * 手动任务
 4.网关(Gateway)
 5.子流程(Subprocess)
 6.边界事件
